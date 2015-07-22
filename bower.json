@@ -1,0 +1,11 @@
+{
+  "name": "rails-asset-pipeline-1d225edb739dc3a57bc5f4c1d96d6836",
+    "dependencies": {
+    "jquery": "~1.11",
+    "normalize.css": "latest",
+    "highlightjs": "latest",
+    "reveal.js": "latest",
+    "lightbox2": "https://github.com/dg-vrnetze/revealjs-lightbox2.git",
+    "middleman-presentation-theme-default": "https://github.com/maxmeyer/middleman-presentation-theme-default.git"
+    }
+}
