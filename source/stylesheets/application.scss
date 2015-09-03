@@ -7,3 +7,26 @@
 @import 'middleman-presentation-helpers/image_gallery/image_gallery';
 @import 'middleman-presentation-helpers/images/images';
 @import 'middleman-presentation-theme-default/stylesheets/middleman-presentation-theme-default';
+
+section.mp-start-slide {
+  img {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.reveal {
+  code {
+    &.inline {
+      vertical-align: bottom;
+    }
+  }
+}
+
+ul.no-bullet {
+  list-style-type: none;
+
+  li {
+    margin: 0.5em 0;
+  }
+}
